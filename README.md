@@ -1,3 +1,5 @@
+> **This site has moved** to https://dylanasdale.github.io/free-guides/guides-for-everything-ai/ (source in the dylanasdale/dylanasdale.github.io repo). `index.html` and `404.html` here are redirects; don't run `build.mjs` here, it would overwrite the redirect.
+
 # Guides for Everything
 
 Beautifully designed, print-ready beginner manuals, written in Markdown and rendered to US Letter PDFs through one shared template.
