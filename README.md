@@ -1,4 +1,4 @@
-> **This site has moved** to https://dylanasdale.github.io/free-guides/guides-for-everything-ai/ (source in the dylanasdale/dylanasdale.github.io repo). `index.html` and `404.html` here are redirects; don't run `build.mjs` here, it would overwrite the redirect.
+> **This site has moved** to https://asdaledynamics.com/free-guides/guides-for-everything-ai/ (source in the dylanasdale/dylanasdale.github.io repo). `index.html` and `404.html` here are redirects; don't run `build.mjs` here, it would overwrite the redirect.
 
 # Guides for Everything
 
