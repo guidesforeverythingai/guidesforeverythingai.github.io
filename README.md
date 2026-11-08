@@ -85,6 +85,8 @@ pdftoppm -png -r 50 output/github.pdf /tmp/github
 
 ## Add a new manual
 
+Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md) first: it sets the covers, colours, type, components and voice every volume follows.
+
 1. Copy [`content/_template.md`](content/_template.md) to `content/<slug>.md`. The template documents every option and shows every building block.
 2. Edit the front matter (title, subtitle, volume, accent colors, cover motif) and write the content.
 3. Run `node build.mjs <slug>`. Your PDF appears at `output/<slug>.pdf`, and the landing page picks it up automatically.
